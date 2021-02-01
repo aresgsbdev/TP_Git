@@ -23,7 +23,7 @@
 
 img {
     border-radius: 50%;
-    width: 70px;
+    width: 80px;
     margin: 10px;
 }
 
@@ -31,6 +31,7 @@ h1 {
     font-weight: lighter;
     margin-left: 100px;
     margin-top: -30px;
+    color:blue;
 }
 
 p {
@@ -43,3 +44,7 @@ p {
 /* ################# */
 /* FIN CODE ORIGINEL */
 /* ################# */
+#stef {
+  margin: 10px;
+  font-family: impact;
+}
