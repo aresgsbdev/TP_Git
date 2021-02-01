@@ -23,7 +23,7 @@
 
 img {
     border-radius: 50%;
-    width: 70px;
+    width: 80px;
     margin: 10px;
 }
 
@@ -31,11 +31,12 @@ h1 {
     font-weight: lighter;
     margin-left: 100px;
     margin-top: -30px;
+    color:blue;
 }
 
 p {
     margin: 10px;
-    font-family: segoe ui;
+    font-family: Impact;
     line-height: 1.4em;
     font-size: 1.2em;
 }
