@@ -35,8 +35,8 @@ h1 {
 }
 
 p {
-    margin: 10px;
-    font-family: Impact;
+    margin: 20px;
+    font-family: segoe ui;
     line-height: 1.4em;
     font-size: 1.2em;
 }
@@ -44,3 +44,7 @@ p {
 /* ################# */
 /* FIN CODE ORIGINEL */
 /* ################# */
+#stef {
+  margin: 10px;
+  font-family: impact;
+}
